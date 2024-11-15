@@ -28,7 +28,7 @@ DEBUG = 'DEVELOPMENT' in os.environ
 
 ALLOWED_HOSTS = [
     '8000-agnieszka21-walkthrough-rvzp36xkn05.ws.codeinstitute-ide.net',
-    'walkthrough-boutique-ado.herokuapp.com',
+    'walkthrough-boutique-ado-606046ccb92c.herokuapp.com',
     'local',
 ]
 
